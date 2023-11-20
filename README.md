@@ -1,16 +1,17 @@
-### Hi there 👋
+![Untitled video - Made with Clipchamp (2)](https://github.com/Ashutosh-Gairola/Ashutosh-Gairola/assets/132334074/7a897a38-e030-41fe-a7f3-cd908ae03083)
+# Hi, I'm Ashutosh Gairola! 👋 
 
-<!--
-**Ashutosh-Gairola/Ashutosh-Gairola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a passionate B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML). During my academic journey, I had the opportunity to translate my theoretical knowledge into practical applications through a hands-on internship at Adani Power and Softel Private Limited.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-gairola-82131721b/)
+
+
+
+## 🛠 Skills
+Java ,Python,C 
+
+
+# 🌟 **DON'T GIVE UP UNTIL THERE IS HOPE** 🚀
