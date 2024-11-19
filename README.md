@@ -1,4 +1,4 @@
-![Untitled video - Made with Clipchamp (2)](https://github.com/Ashutosh-Gairola/Ashutosh-Gairola/assets/132334074/7a897a38-e030-41fe-a7f3-cd908ae03083) ![Untitled video - Made with Clipchamp (3)](https://github.com/Ashutosh-Gairola/Ashutosh-Gairola/assets/132334074/32102a81-edfb-4493-83c6-c0c897100e1b) 
+
 # Hi, I'm Ashutosh Gairola! 👋 
 
 ## 🚀 About Me
